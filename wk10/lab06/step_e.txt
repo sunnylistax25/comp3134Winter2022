@@ -1,0 +1,7 @@
+1. Should not be able to view files and folders before html directory
+
+The basename() function returns only the filename part of a given path/filename: basename("../../../etc/passwd") = passwd. The realpath() function returns the canonicalized absolute pathname but only if the file exists and if the running script has executable permissions on all directories in the hierarchy: realpath("../../../etc/passwd") = /etc/passwd.
+
+2. Should not attempt to look at folders that do not exists
+
+We’re first checking whether the parameter file exists and contains a value. After that we’re constructing a whole path to the file we’re trying to read with the use of getcwd function that gets the current directory and appends it the value of the parameter p. At the end we’re reading the file from the constructed path and displaying it to the user.

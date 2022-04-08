@@ -1,0 +1,1 @@
+I change all the comment type of html to // comment type of php to hide those information from the users. So whenever the user open the file, he/she can't see what is inside the comments because sometimes there are so sensitive information or notes to run the code by the developers inside the files

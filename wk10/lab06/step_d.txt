@@ -1,0 +1,5 @@
+Two errors occur:
+
+(1) Warning:  scandir(hello): Failed to open directory: No such file or directory in /var/www/html/directory_traversal_part1.php on line 7
+
+(2) Warning:  scandir(): (errno 2): No such file or directory in /var/www/html/directory_traversal_part1.php on line 7

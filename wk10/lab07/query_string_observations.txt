@@ -1,0 +1,4 @@
+1. It retrieve a cookie about the page that contains the word I have searched
+2. The url doesn't show /browse/ anymore. Instead, the url turn into /misspelling?term=gnt. It still generated a cookie for the page that contains the misspelling word.
+3. The url turns into https://www.dictionary.com/noresult?term=%3Cscript%3Ealert(%27hello%27)%3C%2Fscript%3E# with the tag no result for it.
+4. The page giving the result with 404 page not found. 
