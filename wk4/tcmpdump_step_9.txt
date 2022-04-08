@@ -1,0 +1,49 @@
+02:06:43.430214 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8565808:8566028, ack 5185, win 501, length 220
+02:06:43.430268 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8566028:8566248, ack 5185, win 501, length 220
+02:06:43.430326 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8566248:8566468, ack 5185, win 501, length 220
+02:06:43.430384 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8566468:8566688, ack 5185, win 501, length 220
+02:06:43.430442 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8566688:8566908, ack 5185, win 501, length 220
+02:06:43.430497 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8566908:8567128, ack 5185, win 501, length 220
+02:06:43.430553 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8567128:8567348, ack 5185, win 501, length 220
+02:06:43.430619 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8567348:8567568, ack 5185, win 501, length 220
+02:06:43.430675 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8567568:8567788, ack 5185, win 501, length 220
+02:06:43.430729 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8567788:8568008, ack 5185, win 501, length 220
+02:06:43.430786 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8568008:8568228, ack 5185, win 501, length 220
+02:06:43.430846 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8568228:8568448, ack 5185, win 501, length 220
+02:06:43.430902 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8568448:8568668, ack 5185, win 501, length 220
+02:06:43.430965 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8568668:8568888, ack 5185, win 501, length 220
+02:06:43.431025 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8568888:8569108, ack 5185, win 501, length 220
+02:06:43.431080 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8569108:8569328, ack 5185, win 501, length 220
+02:06:43.431138 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8569328:8569548, ack 5185, win 501, length 220
+02:06:43.431192 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8569548:8569768, ack 5185, win 501, length 220
+02:06:43.431248 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8569768:8569988, ack 5185, win 501, length 220
+02:06:43.431311 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8569988:8570208, ack 5185, win 501, length 220
+02:06:43.431367 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8570208:8570428, ack 5185, win 501, length 220
+02:06:43.431421 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8570428:8570648, ack 5185, win 501, length 220
+02:06:43.431479 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8570648:8570868, ack 5185, win 501, length 220
+02:06:43.431533 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8570868:8571088, ack 5185, win 501, length 220
+02:06:43.431587 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8571088:8571308, ack 5185, win 501, length 220
+02:06:43.431645 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8571308:8571528, ack 5185, win 501, length 220
+02:06:43.431702 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8571528:8571748, ack 5185, win 501, length 220
+02:06:43.431760 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8571748:8571968, ack 5185, win 501, length 220
+02:06:43.431820 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8571968:8572188, ack 5185, win 501, length 220
+02:06:43.431874 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8572188:8572408, ack 5185, win 501, length 220
+02:06:43.431928 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8572408:8572628, ack 5185, win 501, length 220
+02:06:43.431987 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8572628:8572848, ack 5185, win 501, length 220
+02:06:43.432043 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8572848:8573068, ack 5185, win 501, length 220
+02:06:43.432099 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8573068:8573288, ack 5185, win 501, length 220
+02:06:43.432156 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8573288:8573508, ack 5185, win 501, length 220
+02:06:43.432214 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8573508:8573728, ack 5185, win 501, length 220
+02:06:43.432273 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286: Flags [P.], seq 8573728:8573948, ack 5185, win 501, length 220
+02:06:43.432309 IP cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286 > comp3134-intro-to-cyber-security.ssh: Flags [.], ack 8500888, win 1026, length 0
+02:06:43.432309 IP cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286 > comp3134-intro-to-cyber-security.ssh: Flags [.], ack 8503528, win 1023, length 0
+02:06:43.432309 IP cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286 > comp3134-intro-to-cyber-security.ssh: Flags [P.], seq 5185:5221, ack 8503528, win 1023, length 36
+02:06:43.432310 IP cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286 > comp3134-intro-to-cyber-security.ssh: Flags [.], ack 8507928, win 1021, length 0
+02:06:43.432310 IP cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286 > comp3134-intro-to-cyber-security.ssh: Flags [.], ack 8511668, win 1021, length 0
+02:06:43.432310 IP cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286 > comp3134-intro-to-cyber-security.ssh: Flags [.], ack 8516672, win 1026, length 0
+02:06:43.432310 IP cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286 > comp3134-intro-to-cyber-security.ssh: Flags [.], ack 8520632, win 1025, length 0
+02:06:43.432310 IP cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.12286 > comp3134-intro-to-cyber-security.ssh: Flags [.], ack 8524812, win 1026, length 0
+^C
+39733 packets captured
+39802 packets received by filter
+68 packets dropped by kernel

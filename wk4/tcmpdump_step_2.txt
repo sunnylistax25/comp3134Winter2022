@@ -1,0 +1,11 @@
+root@comp3134-intro-to-cyber-security:~# tcpdump -c 5 -i eth0
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+02:00:59.130630 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.11434: Flags [P.], seq 4013605146:4013605254, ack 1713861312, win 501, length 108
+02:00:59.130694 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.11434: Flags [P.], seq 108:144, ack 1, win 501, length 36
+02:00:59.130744 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.11434: Flags [P.], seq 144:252, ack 1, win 501, length 108
+02:00:59.130784 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.11434: Flags [P.], seq 252:288, ack 1, win 501, length 36
+02:00:59.131462 IP comp3134-intro-to-cyber-security.60524 > 67.207.67.3.domain: 34968+ [1au] PTR? 232.74.231.99.in-addr.arpa. (55)
+5 packets captured
+40 packets received by filter
+3 packets dropped by kernel

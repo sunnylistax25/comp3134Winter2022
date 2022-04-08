@@ -1,0 +1,41 @@
+02:04:47.670605 IP 165.232.80.222.40320 > comp3134-intro-to-cyber-security.ssh: Flags [FP.], seq 662:714, ack 1498, win 501, options [nop,nop,TS val 1329029672 ecr 3009617552], length 52
+02:04:47.670650 IP comp3134-intro-to-cyber-security > 165.232.80.222: ICMP comp3134-intro-to-cyber-security tcp port ssh unreachable, length 112
+02:04:48.528581 IP bitnova-vm01.dnspropio.com.55652 > comp3134-intro-to-cyber-security.ssh: Flags [FP.], seq 2900378878:2900378930, ack 2582064521, win 262, options [nop,nop,TS val 1427991808 ecr 2798149835], length 52
+02:04:48.528635 IP comp3134-intro-to-cyber-security > bitnova-vm01.dnspropio.com: ICMP comp3134-intro-to-cyber-security tcp port ssh unreachable, length 112
+02:04:50.720379 IP 46.101.180.162.59580 > comp3134-intro-to-cyber-security.ssh: Flags [S], seq 2389924376, win 64240, options [mss 1460,sackOK,TS val 3964579643 ecr 0,nop,wscale 7], length 0
+02:04:50.720433 IP comp3134-intro-to-cyber-security > 46.101.180.162: ICMP comp3134-intro-to-cyber-security tcp port ssh unreachable, length 68
+02:04:51.823829 IP comp3134-intro-to-cyber-security.ssh > 129.226.158.246.39382: Flags [F.], seq 1, ack 0, win 507, options [nop,nop,TS val 4008518737 ecr 3708054613], length 0
+02:04:52.059737 IP 129.226.158.246.39382 > comp3134-intro-to-cyber-security.ssh: Flags [.], ack 2, win 501, options [nop,nop,TS val 3708173858 ecr 4008518737], length 0
+02:04:52.059786 IP comp3134-intro-to-cyber-security > 129.226.158.246: ICMP comp3134-intro-to-cyber-security tcp port ssh unreachable, length 60
+02:04:52.953671 IP 223.196.87.34.bc.googleusercontent.com.46981 > comp3134-intro-to-cyber-security.ssh: Flags [FP.], seq 1:53, ack 68, win 523, options [nop,nop,TS val 1926217112 ecr 3891408173], length 52
+02:04:52.953718 IP comp3134-intro-to-cyber-security > 223.196.87.34.bc.googleusercontent.com: ICMP comp3134-intro-to-cyber-security tcp port ssh unreachable, length 112
+02:04:54.051152 IP 118.113.198.158 > comp3134-intro-to-cyber-security: ICMP echo request, id 16912, seq 62570, length 16
+02:04:54.051209 IP comp3134-intro-to-cyber-security > 118.113.198.158: ICMP echo reply, id 16912, seq 62570, length 16
+02:04:54.706102 IP cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.11434 > comp3134-intro-to-cyber-security.ssh: Flags [P.], seq 249:293, ack 400, win 1023, length 44
+02:04:54.706140 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.11434: Flags [.], ack 293, win 501, length 0
+02:04:54.706305 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.11434: Flags [P.], seq 400:444, ack 293, win 501, length 44
+02:04:54.712619 IP cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.11434 > comp3134-intro-to-cyber-security.ssh: Flags [P.], seq 293:337, ack 400, win 1023, length 44
+02:04:54.712620 IP cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.11434 > comp3134-intro-to-cyber-security.ssh: Flags [P.], seq 337:381, ack 400, win 1023, length 44
+02:04:54.712654 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.11434: Flags [.], ack 337, win 501, length 0
+02:04:54.712682 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.11434: Flags [.], ack 381, win 501, length 0
+02:04:54.712821 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.11434: Flags [P.], seq 444:496, ack 381, win 501, length 52
+02:04:54.774656 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.11434: Flags [P.], seq 444:496, ack 381, win 501, length 52
+02:04:54.785749 IP cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.11434 > comp3134-intro-to-cyber-security.ssh: Flags [.], ack 496, win 1023, length 0
+02:04:54.785749 IP cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.11434 > comp3134-intro-to-cyber-security.ssh: Flags [.], ack 496, win 1023, options [nop,nop,sack 1 {444:496}], length 0
+02:04:57.112067 IP cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.11434 > comp3134-intro-to-cyber-security.ssh: Flags [P.], seq 381:417, ack 496, win 1023, length 36
+02:04:57.112129 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.11434: Flags [.], ack 417, win 501, length 0
+02:04:57.112296 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.11434: Flags [P.], seq 496:532, ack 417, win 501, length 36
+02:04:57.342641 IP comp3134-intro-to-cyber-security.ssh > cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.11434: Flags [P.], seq 496:532, ack 417, win 501, length 36
+02:04:57.354354 IP cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.11434 > comp3134-intro-to-cyber-security.ssh: Flags [.], ack 532, win 1023, length 0
+02:04:57.354354 IP cpe64777d54b1a3-cm64777d54b1a0.cpe.net.cable.rogers.com.11434 > comp3134-intro-to-cyber-security.ssh: Flags [.], ack 532, win 1023, options [nop,nop,sack 1 {496:532}], length 0
+02:04:57.950659 IP comp3134-intro-to-cyber-security.ssh > 223.196.87.34.bc.googleusercontent.com.46981: Flags [P.], seq 0:68, ack 1, win 507, options [nop,nop,TS val 3891441453 ecr 1926210712], length 68
+02:04:58.148207 IP 223.196.87.34.bc.googleusercontent.com.46981 > comp3134-intro-to-cyber-security.ssh: Flags [.], ack 68, win 523, options [nop,nop,TS val 1926217631 ecr 3891441453,nop,nop,sack 1 {0:68}], length 0
+02:04:58.148256 IP comp3134-intro-to-cyber-security > 223.196.87.34.bc.googleusercontent.com: ICMP comp3134-intro-to-cyber-security tcp port ssh unreachable, length 72
+02:05:00.729221 IP 129.226.158.246.44720 > comp3134-intro-to-cyber-security.ssh: Flags [S], seq 3458456942, win 64240, options [mss 1424,sackOK,TS val 3708182526 ecr 0,nop,wscale 7], length 0
+02:05:00.729271 IP comp3134-intro-to-cyber-security > 129.226.158.246: ICMP comp3134-intro-to-cyber-security tcp port ssh unreachable, length 68
+02:05:07.812791 IP 218.92.0.195.32966 > comp3134-intro-to-cyber-security.ssh: Flags [S], seq 368488702, win 29200, options [mss 1460,sackOK,TS val 2925579820 ecr 0,nop,wscale 7], length 0
+02:05:07.812853 IP comp3134-intro-to-cyber-security > 218.92.0.195: ICMP comp3134-intro-to-cyber-security tcp port ssh unreachable, length 68
+02:05:08.064649 IP 218.92.0.195.35166 > comp3134-intro-to-cyber-security.ssh: Flags [S], seq 1779024326, win 29200, options [mss 1460,sackOK,TS val 2925579882 ecr 0,nop,wscale 7], length 0
+02:05:08.064787 IP comp3134-intro-to-cyber-security > 218.92.0.195: ICMP comp3134-intro-to-cyber-security tcp port ssh unreachable, length 68
+02:05:08.316438 IP 218.92.0.195.37062 > comp3134-intro-to-cyber-security.ssh: Flags [S], seq 3843311552, win 29200, options [mss 1460,sackOK,TS val 2925579945 ecr 0,nop,wscale 7], length 0
+02:05:08.316489 IP comp3134-intro-to-cyber-security > 218.92.0.195: ICMP comp3134-intro-to-cyber-security tcp port ssh unreachable, length 68
