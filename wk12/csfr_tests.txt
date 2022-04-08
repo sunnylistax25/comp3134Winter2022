@@ -1,0 +1,13 @@
+In the csfr.html:
+The information is sent and stored in the web server without any hidden field to compare the value.
+Therefore, it is less security to match if this is a valid submission.
+
+In the csfr_form:
+
+The web server generates a token and stores it
+The token is statically set as a hidden field of the form
+The form is submitted by the user
+The token is included in the POST request data
+The application compares the token generated and stored by the application with the token sent in the request
+If these tokens match, the request is valid
+If these tokens do not match, the request is invalid and if it is rejected, It is giving safer browsing experience for user

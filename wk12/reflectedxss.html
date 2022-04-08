@@ -1,0 +1,17 @@
+<html>
+  <body>
+    <h1>Reflected XSS</h1>
+    <form>
+      <input type="text" name="username"/>
+      <input type="submit" name="Submit"/>
+  </form>
+  <div>
+    <script>
+    if (isset($_REQUEST['Submit'])) { //check if form was submitted
+      $input = isset($_REQUEST['username']) ? $_REQUEST['username'] : "";//get input text
+      alert( "Submit" . $input);
+  }
+  </script>
+  </div>
+  </body>
+</html>

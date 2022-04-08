@@ -1,0 +1,3 @@
+Stored cross-site scripting arises when the application stores the input and embeds it into a later response in an unsafe way.
+Because the script in the returned message is shown to every users who access the webiste, they might click the link inside the script. 
+When they click the link, they become a victim of malware or something similar that they don't even know.
